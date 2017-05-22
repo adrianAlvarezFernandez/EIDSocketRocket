@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E9E191441ED2C27E00A30DD7 /* EIDSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = E9E191421ED2C27E00A30DD7 /* EIDSocketRocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E9E1914D1ED2C30900A30DD7 /* SocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = E9E1914A1ED2C30900A30DD7 /* SocketRocket.h */; };
-		E9E1914E1ED2C30900A30DD7 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = E9E1914B1ED2C30900A30DD7 /* SRWebSocket.h */; };
+		E9E1914E1ED2C30900A30DD7 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = E9E1914B1ED2C30900A30DD7 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E9E1914F1ED2C30900A30DD7 /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = E9E1914C1ED2C30900A30DD7 /* SRWebSocket.m */; };
 		E9E191521ED2C47500A30DD7 /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = E9E191511ED2C47500A30DD7 /* libicucore.tbd */; };
 /* End PBXBuildFile section */

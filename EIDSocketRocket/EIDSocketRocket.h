@@ -6,8 +6,7 @@
 //  Copyright © 2017 Electronic ID. All rights reserved.
 //
 
-#import <SocketRocket/SRWebSocket.h>
-#import <UIKit/UIKit.h>
+#import <EIDSocketRocket/SRWebSocket.h>
 
 //! Project version number for EIDSocketRocket.
 FOUNDATION_EXPORT double EIDSocketRocketVersionNumber;
