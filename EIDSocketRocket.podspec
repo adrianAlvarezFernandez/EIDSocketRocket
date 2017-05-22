@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
-  # s.source       = { :http => "https://github.com/adrianAlvarezFernandez/stompClientEid/blob/master/EIDStompClient.zip?raw=true" }
+  s.source       = { :http => "https://github.com/adrianAlvarezFernandez/EIDSocketRocket/blob/master/EIDSocketRocket.zip?raw=true" }
 
   # s.vendored_frameworks = "EidSdkIosFramework.framework"
   s.vendored_frameworks = "EIDSocketRocket.framework"
