@@ -1,0 +1,6 @@
+framework module EIDSocketRocket {
+  umbrella header "EIDSocketRocket.h"
+
+  export *
+  module * { export * }
+}
