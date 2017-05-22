@@ -14,7 +14,7 @@
 //   limitations under the License.
 //
 
-#import <SocketRocket/SRWebSocket.h>
+#import <EIDSocketRocket/SRWebSocket.h>
 #import <UIKit/UIKit.h>
 
 //! Project version number for EIDSocketRocket.
